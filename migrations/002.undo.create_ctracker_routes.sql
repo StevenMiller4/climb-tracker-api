@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS ctracker_routes;
